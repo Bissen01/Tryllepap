@@ -6,8 +6,8 @@
     "duellant": "Kig på de 3 øvereste kort af dit bibliotek. Kast op til 1 af dem og læg de resterende 2 tilfældigt i bunden af biblioteket.", 
     "besværgelse": "Kig på din modstanders hånd. Vælg 1 kort, som de lægger som deres duellant. De trækker 2 kort", 
     "styrke": 3, 
-    "set": 1
-    "img": 
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Agathe-Egaa.jpg"
   },
   {
     "navn": "Arnfeldts Assistenter",
@@ -15,7 +15,278 @@
     "duellant": "Assistenterne taber duellen. Du må finde kortet 'Professor Arne Arnfeldt' i biblioteket eller i kælderen og tage det på din hånd.",
     "besværgelse": "Kig på det øverste kort af dit eller din modstanders bibliotek. Du må vælge at lægge kortet i kælderen.",
     "styrke": 1,
-    "set": 1
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Arnfeldts-Assistenter.jpg"
+  },
+  {
+    "navn": "Assistent Asbjørn Aris Middahl",
+    "typer":["Enestående", "Hus Fafner", "Halvfødt", "Ritual"],
+    "duellant": "Aris får +1 for hvert ritual kastet.",
+    "besværgelse": "Læg 1 kort fra din kælderen. Træk 1 kort.",
+    "styrke": 3,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Assistent-Asbjoern-Aris-Middahl.jpg"
+  },
+  {
+    "navn": "Assistent Klara Klaphorn",
+    "typer":["Enestående", "Hus Hugin", "Halvfødt"],
+    "duellant": "Vælg et fag, du har kastet, og gentag dets effekt.",
+    "besværgelse": "Din duellant får +1. Er duellanten enestående, får de +3 i stedet.",
+    "styrke": 2,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Assistent-Klara-Klaphorn-2.jpg"
+  },
+  {
+    "navn": "Balder og Malevoi Symbiosen",
+    "typer":["Enestående", "Hus Sleipnir", "Ånd", "Dæmon", "Hexfødt"],
+    "duellant": "Hvis du har kastet 3 eller flere ritualer, får Balder +8. Balders styrke kan ikke påvirkes af besværgelser.",
+    "besværgelse": "Din modsanders duellant lægges i bunden af deres bibliotek. De trækker 2 kort.",
+    "styrke": 3,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Balder-og-Malevoi-Symbiosen.jpg"
+  },
+  {
+    "navn": "Bureaukratiske Dæmoner",
+    "typer":["Ånd", "Dæmon"],
+    "duellant": "Dæmonerne taber, hvis du har kastet færre end 3 ritualer.",
+    "besværgelse": "Hvis du har kastet 2 eller flere ritualer, får din duellant +4.",
+    "styrke": 10,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Bureaukratiske-Daemoner.jpg"
+  },
+  {
+    "navn": "Dansamokka!",
+    "typer":["Forbandelse"],
+    "duellant": "",
+    "besværgelse": "Vis det øverste kort af din modsanders bibliotek. Du må kaste besværgelsen med det samme, som var det dit kort.",
+    "styrke": 0,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Dansamokka.jpg"
+  },
+  {
+    "navn": "Den Ambitiøse Sleipnir Elev",
+    "typer":["Hus Sleipnir", "Elev", "Mundanfødt"],
+    "duellant": "Eleven får +1 for hver besværgelse, du har kastet. Elevens styrke kan ikke påvirkes af besværgelser.",
+    "besværgelse": "Træk 1 kort. Din modstander trækker 1 kort.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Ambitioese-Sleipnir-Elev.jpg"
+  },
+  {
+    "navn": "Den Bæredygtige Fafner Elev",
+    "typer":["Hus Fafner", "Elev", "Mundanfødt"],
+    "duellant": "Eleven får +1 for hvert Fafner kort i kælderen.",
+    "besværgelse": "Læg 3 kort fra din kælder i bunden af dit bibliotek i tilfældig rækkefølge. Hvis du gør dette, må du trække 1 kort.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Baeredygtige-Fafner-Elev.jpg"
+  },
+  {
+    "navn": "Den Empatiske Ratatosk Elev",
+    "typer":["Hus Ratatosk", "Elev", "Hexfødt"],
+    "duellant": "Hvis din modstanders duellant har 9 eller mere styrke end sin grundstyrke, så vinder denne elev.",
+    "besværgelse": "Din modstanders duellant får +2.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Empatiske-Ratatosk-Elev.jpg"
+  },
+  {
+    "navn": "Den Forudseende Hugin Elev",
+    "typer":["Hus Hugin", "Elev", "Halvfødt"],
+    "duellant": "Eleven får +2 for hver gang, du har kigget på din modstanders hånd og duellant.",
+    "besværgelse": "Kig på din modstanders hånd. Læg 1 af deres kort i kælderen. De trækker 1 kort.",
+    "styrke": 2,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Forudseende-Hugin-Elev.jpg"
+  },
+  {
+    "navn": "Den Frembrusende Sleipnir Elev",
+    "typer":["Hus Sleipnir", "Elev", "Hexfødt"],
+    "duellant": "Eleven får -2 for hver besværgelse, som din modstander har kastet. Elevens styrke kan ikke påvirkes af besværgelser.",
+    "besværgelse": "Læg din hånd i kælderen og træk det samme antal kort.",
+    "styrke": 8,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Frembrusende-Slipnir-Elev.jpg"
+  },
+  {
+    "navn": "Den Frådsende Lokir Håndlanger",
+    "typer":["Hus Lokir", "Hexfødt"],
+    "duellant": "Du må fjerne lige så mange kort fra spillet som du vil. For hvert kort fjernet, får håndlangeren +1.",
+    "besværgelse": "Læg 2 kort fra din hånd i din kælder. Træk 1 kort.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Fraadsende-Lokir-Haandlanger.jpg"
+  },
+  {
+    "navn": "Den Grådige Lokir Håndlanger",
+    "typer":["Hus Lokir", "Hexfødt"],
+    "duellant": "Vælg en besværgelse, som din modstander har kastet. Annullér den og kast den, som var det din besværgelse.",
+    "besværgelse": "Fjern lige så mange kort fra toppen af dit bibliotek fra spillet, som du vil. For hvert andet kort fjernet, får din duellant +1.",
+    "styrke": 2,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Graadige-Lokir-Haandlanger.jpg"
+  },
+  {
+    "navn": "Den Kreative Ratatosk Elev",
+    "typer":["Hus Ratatosk", "Elev", "Mundanfødt"],
+    "duellant": "Du må bytte eleven ud med en elev fra din hånd. Denne er din nue duellant. Dens krigseffekt aktiveres ikke.",
+    "besværgelse": "Træk 1 kort. Din modstanders duellant får +4.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Kreative-Ratataosk-Elev.jpg"
+  },
+  {
+    "navn": "Den Retfærdige Sleipnir Elev",
+    "typer":["Hus Sleipnir", "Elev", "Halvfødt"],
+    "duellant": "Elevens styrke kan ikke påvirkes af besværgelser.",
+    "besværgelse": "Din duellant vinder, hvis duellanen står lige.",
+    "styrke": 4,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Retfaerdige-Sleipnir-Elev.jpg"
+  },
+  {
+    "navn": "Den Selvopofrende Hugin Elev",
+    "typer":["Hus Hugin", "Elev", "Halvfødt"],
+    "duellant": "Eleven taber duellen. Træk 2 kort.",
+    "besværgelse": "Din duellant får -4. Træl 2 kort. Du må ikke trække flere kort denne runde",
+    "styrke": 5,
+    "set": 1,
+   "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Selvopofrende-Hugin-Elev.jpg"
+  },
+  {
+    "navn": "Den Snedige Hugin Elev",
+    "typer":["Hus Hugin", "Elev", "Halvfødt"],
+    "duellant": "Annullér en besværgelse.",
+    "besværgelse": "Din duellant får +1 for hver kort, som du har annulleret.",
+    "styrke": 4,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Snedige-Hugin-Elev.jpg"
+  },
+  {
+    "navn": "Den Stolte Ratatosk Elev",
+    "typer":["Hus Ratatosk", "Elev", "Mundanfødt"],
+    "duellant": "Eleven får +5, hvis du ikke har kastet nogen besværgelser.",
+    "besværgelse": "Din modstanders duellant får +1 for hvert Ratatosk kort, du har kastet.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Stolte-Ratatosk-Elev.jpg"
+  },
+  {
+    "navn": "Den Traditionstro Fafner Elev",
+    "typer":["Hus Fafner", "Elev", "Hexfødt", "Ritual"],
+    "duellant": "Kast op til 1 ritual kort fra kælderen med det samme.",
+    "besværgelse": "Din modstanders og din duellant får +2, hvis de er ånder.",
+    "styrke": 2,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Traditionstro-Fafner-Elev.jpg"
+  },
+  {
+    "navn": "Den Trofaste Fafner Elev",
+    "typer":["Hus Fafner", "Elev", "Hexfødt"],
+    "duellant": "Du må tage 1 Fafner kort fra kælderen op på din hånd.",
+    "besværgelse": "Vælg 1 kort i kælderen og læg det på toppen af dit bibliotek.",
+    "styrke": 3,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Trofaste-Fafner-Elev.jpg"
+  },
+  {
+    "navn": "Den uovervindelige Lokir Håndlanger",
+    "typer":["Hus Lokir", "Hexfødt"],
+    "duellant": "Efter duellen må du tage håndlangeren op på hånden igen.",
+    "besværgelse": "Din duellant får +2. Er der 3 eller flere Lokir kort i din kælder må du tage dette kort op på din hånd efter duellen.",
+    "styrke": 0,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Den-Uoverdindelige-Lokir-Haandlanger.jpg"
+  },
+  {
+    "navn": "Dr. Severin Malurt",
+    "typer":["Enestående", "Hus Ratatosk", "Hus Sleipnir", "Hexfødt"],
+    "duellant": "Du må tage 1 elev i kælderen op på din hånd. Malurts styrke kan ikke påvirkes af besværgelser.",
+    "besværgelse": "Din duellant vinder mod duellanter med styrke 4 eller 7.",
+    "styrke": 5,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Dr.-Severin-Malurt.jpg"
+  },
+  {
+    "navn": "Elev på Aros Akedemi",
+    "typer":["Alle Huse", "Elev", "Alt-født"],
+    "duellant": "Elevnen får +1 for hvert fag kastet.",
+    "besværgelse": "Din duellant får +1.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Elev-paa-Aros-Akademi.jpg"
+  },
+  {
+    "navn": "Fafner Hustime",
+    "typer":["Hus Fafner", "Fag", "Ritual"],
+    "duellant": "Vend kort fra toppen af dit bibliotek, indtil du finder en nisse eller en ånd. Det er din nye duallant. Læg de vendte kort og Fafner Hustime tilfældigt i bunden af biblioteket.",
+    "besværgelse": "Din duellant får +2, hvis de er fra Fafner.",
+    "styrke": 0,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Fafner-Hustime.jpg"
+  },
+  {
+    "navn": "Fafner Præfekt",
+    "typer":["Hus Fafner", "Elev", "Hexfødt"],
+    "duellant": "Hvis præfekten vinder duellen, trækker du 3 kort.",
+    "besværgelse": "Din duellant får +1 for hver Fafner besværgelse kastet.",
+    "styrke": 1,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Fafner-Praefekt.jpg"
+  },
+  {
+    "navn": "Fafner, Den Komiske Åndedrage",
+    "typer":["Enestående", "Ånd", "Drage", "Ritual"],
+    "duellant": "Fafner taber duellen, hvis der er kastet færre end 6 ritualer. Vinder Fafner duellen, vinder du spillet.",
+    "besværgelse": "Træk 1 kort. Læg 1 kort fra din hånd i kælderen",
+    "styrke": 100,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Fafner-Den-Kosmiske-Aandedrage.jpg"
+  },
+  {
+    "navn": "Frk. Phreau og Ms. Odear",
+    "typer":["Enestående", "Hus Ratatosk", "Hus Hugin", "Hexfødt"],
+    "duellant": "Tag en genstand på størrelse med en mønt eller større. Hvis din modstander ikke kan gætte, hvilken hånd den er gemt i, får Preay og Odear +4.",
+    "besværgelse": "Kig på din modstanders duellant. Giv dem -1 eller +2.",
+    "styrke": 3,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Frk.-Phreau-og-Ms.-Odear.jpg"
+  },
+  {
+    "navn": "Frysio!",
+    "typer":["Forbandelse"],
+    "duellant": "",
+    "besværgelse": "Der kan ikke kastes flere besværgelser.",
+    "styrke": 0,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Frysio.jpg"
+  },
+  {
+    "navn": "Golem af Mønt og Læder",
+    "typer":["Ånd", "Golem"],
+    "duellant": "Golemen taber, hvis du har kastet færre end 1 ritual.",
+    "besværgelse": "Hvis du har kastet mindst 1 ritual, får din duellant +2",
+    "styrke": 6,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Golem-Af-Moent-Og-Laeder.jpg"
+  },
+  {
+    "navn": "Golem af Sten",
+    "typer":["Bæst", "Golem"],
+    "duellant": "Golemens styrke kan ikke på virkes af besværgelser.",
+    "besværgelse": "",
+    "styrke": 9,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Golem-Af-Sten.jpg"
+  },
+  {
+    "navn": "Gunrak Den Røde",
+    "typer":["Enestående", "Hus Sleipnir", "Ånd", "Hexfødt"],
+    "duellant": "Gunrak kan ikke være i et bibliotek med andre enestående ikke-Sleipnir kort. Gunraks styrke kan ikke påvirkes af besværgelser.",
+    "besværgelse": "",
+    "styrke": 15,
+    "set": 1,
+    "img": "https://bisgaard.net/DB/Tryllepap/cardsDB/Gunrak-Den-Roede.jpg"
   },
   {
     "navn": "",
@@ -23,7 +294,8 @@
     "duellant": "",
     "besværgelse": "",
     "styrke": int,
-    "set": int
+    "set": int,
+    "img": ""
   },
   {
     "navn": "",
@@ -31,7 +303,8 @@
     "duellant": "",
     "besværgelse": "",
     "styrke": int,
-    "set": int
+    "set": int,
+    "img": ""
   },
   {
     "navn": "",
@@ -39,7 +312,8 @@
     "duellant": "",
     "besværgelse": "",
     "styrke": int,
-    "set": int
+    "set": int,
+    "img": ""
   },
   {
     "navn": "",
@@ -47,39 +321,8 @@
     "duellant": "",
     "besværgelse": "",
     "styrke": int,
-    "set": int
-  },
-  {
-    "navn": "",
-    "typer":[],
-    "duellant": "",
-    "besværgelse": "",
-    "styrke": int,
-    "set": int
-  },
-  {
-    "navn": "",
-    "typer":[],
-    "duellant": "",
-    "besværgelse": "",
-    "styrke": int,
-    "set": int
-  },
-  {
-    "navn": "",
-    "typer":[],
-    "duellant": "",
-    "besværgelse": "",
-    "styrke": int,
-    "set": int
-  },
-  {
-    "navn": "",
-    "typer":[],
-    "duellant": "",
-    "besværgelse": "",
-    "styrke": int,
-    "set": int
+    "set": int,
+    "img": ""
   }
   ]
 }
