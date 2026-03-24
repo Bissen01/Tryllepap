@@ -1,0 +1,3 @@
+Vi vil lave en variation af hjemmesiden "Scryfall" for kortspillet Tryllepap. 
+Hvis muligt skal det have en API som computerspillet Tabletop simulater kan intaragere med.
+Hvis muligt skal en variation af hjemmesiden "Moxfield" også bygges ind. Specifikt deckbuilder funktionen derfra.
