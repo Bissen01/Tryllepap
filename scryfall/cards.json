@@ -1,0 +1,85 @@
+{
+  "cards": [
+  {
+    "navn": "Agathe Egå", 
+    "typer": ["Enestående", "Hus Hugin", "Ånd", "Halvfødt"], 
+    "duellant": "Kig på de 3 øvereste kort af dit bibliotek. Kast op til 1 af dem og læg de resterende 2 tilfældigt i bunden af biblioteket.", 
+    "besværgelse": "Kig på din modstanders hånd. Vælg 1 kort, som de lægger som deres duellant. De trækker 2 kort", 
+    "styrke": 3, 
+    "set": 1
+    "img": 
+  },
+  {
+    "navn": "Arnfeldts Assistenter",
+    "typer":["Halvfødt"],
+    "duellant": "Assistenterne taber duellen. Du må finde kortet 'Professor Arne Arnfeldt' i biblioteket eller i kælderen og tage det på din hånd.",
+    "besværgelse": "Kig på det øverste kort af dit eller din modstanders bibliotek. Du må vælge at lægge kortet i kælderen.",
+    "styrke": 1,
+    "set": 1
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  },
+  {
+    "navn": "",
+    "typer":[],
+    "duellant": "",
+    "besværgelse": "",
+    "styrke": int,
+    "set": int
+  }
+  ]
+}
